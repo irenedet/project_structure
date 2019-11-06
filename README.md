@@ -17,7 +17,16 @@ The following are sections that a README.md file should contain:
 | [Notebooks](##notebooks) | Introduction on the provided Jupyter Notebooks |
 
 ## Project Structure
- \*PROJECT FOLDER*\
+**PROJECT FOLDER**
+  **Examples**
+  **Notebooks**
+  **Project name (code)**
+  **Samples?**
+  **Tests**
+  *README.md*
+  *LICENSE*
+  *Requirements.txt*
+  *setup.py* (this is to be able to pip install!)
 
 ## Instalation
 ## Overview
