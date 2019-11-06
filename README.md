@@ -18,14 +18,23 @@ The following are sections that a README.md file should contain:
 
 ## Project Structure
 **PROJECT FOLDER**
-  **Examples**
-  **Notebooks**
-  **Project name (code)**
-  **Samples?**
-  **Tests**
+
+  -**Examples**
+  
+  -**Notebooks**
+  
+  -**Project name (code)**
+  
+  -**Samples?**
+  
+  -**Tests**
+  
   *README.md*
+  
   *LICENSE*
+  
   *Requirements.txt*
+  
   *setup.py* (this is to be able to pip install!)
 
 ## Instalation
