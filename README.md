@@ -17,9 +17,9 @@ The following are sections that a README.md file should contain:
 | [Notebooks](##notebooks) | Introduction on the provided Jupyter Notebooks |
 
 ## Project Structure
-**PROJECT FOLDER**
+**PROJECT FOLDER CONTAINS:**
 
-  -**Examples**
+  \t-**Examples**
   
   -**Notebooks**
   
