@@ -8,12 +8,16 @@ The following are sections that a README.md file should contain:
 
 | Section | Description |
 |-|-|
+| [Project structure](##projectstruct) | main elements of a project structure |
 | [Installation](##installation) | How to install the package |
 | [Overview](##overview) | Overview of the package |
 | [Usage](##usage) | Quickstart examples |
 | [Doc](##doc) |  Detailed documentation |
 | [Examples](##examples) | Detailed examples on how to fine-tune Bert |
 | [Notebooks](##notebooks) | Introduction on the provided Jupyter Notebooks |
+
+## Project Structure
+ \*PROJECT FOLDER*\
 
 ## Instalation
 ## Overview
